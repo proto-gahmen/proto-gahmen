@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @proto-gahmen
 - 👀 I’m interested in economics, sociology, physics, mathematics and others
 - 🌱 I’m currently learning economics and java
-- 💞️ I’m not looking to collaborate, i am sigma like that
+- 💞️ I’m not looking to collaborate, 
 - 📫 How to reach me: "don't"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've never broken a limb :)
